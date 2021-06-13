@@ -1,5 +1,6 @@
 
 # project:1 
+# Diabetic prediction
 
 https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/KNN%20Pima%20indian%20diabetes.py
  
