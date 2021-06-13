@@ -9,6 +9,9 @@ https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/KNN%20Pima%20indian
  
  # project:2
   # car safety 
+  
+  https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/car%20safety%20ML%20decision%20tree.py
+ 
    I built a decission tree classifier to predict the safety of the car.I build two models, one with criterion gini index and another one with criterion entropy. I implement       decision Tree Classification with Python and Scikit-Learn.
    The model yeilds a very good performance as indicated by the model accuracy in both cases which was found to be 89% on test data set.
    Gini index- train set=93%,test set=89%
