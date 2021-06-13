@@ -1,2 +1,2 @@
-# Data Analyst portfolio-
+# Data Analyst portfolio
 .
