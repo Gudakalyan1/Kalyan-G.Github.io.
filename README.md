@@ -5,6 +5,18 @@
 https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/car%20safety.ipynb
 
 Predict the probability of a customer defaulting payment for the credit card the subsequent month, based on past information. The past information is provided in the dataset. This probability will help the collections team to prioritise follow up with customers who have a high propensity of defaulting.
+DecissionTree model achieve the  best accuracy
+
+classification report test: 
+               precision    recall  f1-score   support
+
+           0       0.86      0.91      0.88      7060
+           1       0.58      0.44      0.50      1940
+
+    accuracy                           0.81      9000
+   macro avg       0.72      0.68      0.69      9000
+weighted avg       0.80      0.81      0.80      9000
+
 
 
 # project:2 
