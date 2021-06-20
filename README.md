@@ -5,7 +5,7 @@
 https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/Credit%20card%20default%20propensity%20prediction.ipynb
 
 Predict the probability of a customer defaulting payment for the credit card the subsequent month, based on past information. The past information is provided in the dataset. This probability will help the collections team to prioritise follow up with customers who have a high propensity of defaulting.
-DecissionTree model achieve the  best accuracy
+DecissionTree model achieve the  best accuracy out of all classification algorithams
 
 classification report test: 
                precision    recall  f1-score   support
