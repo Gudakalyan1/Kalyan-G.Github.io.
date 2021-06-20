@@ -58,6 +58,8 @@ weighted avg       0.92      0.92      0.92       519
    
    
    classification_report: 
+   
+   
                precision    recall  f1-score   support
 
            0       0.98      0.89      0.93      3462
