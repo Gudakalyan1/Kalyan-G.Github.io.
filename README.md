@@ -55,8 +55,9 @@ weighted avg       0.92      0.92      0.92       519
    https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/Hr%20analytics.ipynb
    
    Predict the probability of the employees wheather they leave the company or continue the work based on the previous data .This will help Hr depatment to predict employee behaviour and attrition.
-   Classification report:
-   test data: 
+   
+   
+   classification_report: 
                precision    recall  f1-score   support
 
            0       0.98      0.89      0.93      3462
