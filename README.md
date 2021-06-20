@@ -1,5 +1,13 @@
+# project: 1
 
-# project:1 
+# credit card default propensity prediction
+
+https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/car%20safety.ipynb
+
+Predict the probability of a customer defaulting payment for the credit card the subsequent month, based on past information. The past information is provided in the dataset. This probability will help the collections team to prioritise follow up with customers who have a high propensity of defaulting.
+
+
+# project:2 
 # Diabetic prediction
 
 https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/_Pima%20indian%20diabetes.ipynb
@@ -7,7 +15,7 @@ https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/_Pima%20indian%20di
  In this project i build a machine learning model using k nearest neighbor algoritham to predict whether the patiens in pima indian dataset have dabetics or not
   the knn classifier with number of neighbors as 14 achieve the best score of 75%.
  
- # project:2
+ # project:3
   # car safety 
   
   https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/car%20safety.ipynb
