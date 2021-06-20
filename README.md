@@ -32,7 +32,7 @@ https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/_Pima%20indian%20di
   
   https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/car%20safety.ipynb
  
-   I built a decission tree classifier to predict the safety of the car.I build two models, one with criterion gini index and another one with criterion entropy. I implement       decision Tree Classification with Python and Scikit-Learn.
+   I built a decission tree classifier to predict the safety of the car. build two models, one with criterion gini index and another one with criterion entropy. I implement       decision Tree Classification with Python and Scikit-Learn.
    The model yeilds a very good performance as indicated by the model accuracy in both cases which was found to be 89% on test data set.
    Gini index- train set=93%,test set=89%
    similarly the model criteration as entropy the train set accuracy is 93% and test accuracy 91% 
@@ -48,3 +48,9 @@ https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/_Pima%20indian%20di
    macro avg       0.78      0.82      0.79       519
 weighted avg       0.92      0.92      0.92       519
    
+   # Project:4
+   
+   # Hr analytics job prediction
+   
+   
+   Predict the probability of the employees wheather they leave the company or continue the work based on the previous data .This will help Hr depatment to predict employee behaviour and attrition.
