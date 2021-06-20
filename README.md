@@ -28,7 +28,7 @@ https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/_Pima%20indian%20di
   the knn classifier with number of neighbors as 14 achieve the best score of 75%.
  
  # project:3
-  # car safety 
+  # car safety prediction
   
   https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/car%20safety.ipynb
  
