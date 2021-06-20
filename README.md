@@ -52,5 +52,6 @@ weighted avg       0.92      0.92      0.92       519
    
    # Hr analytics job prediction
    
+   https://github.com/Gudakalyan1/Kalyan-G.Github.io./blob/main/Hr%20analytics.ipynb
    
    Predict the probability of the employees wheather they leave the company or continue the work based on the previous data .This will help Hr depatment to predict employee behaviour and attrition.
